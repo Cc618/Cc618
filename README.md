@@ -24,8 +24,8 @@ I'm Célian Raimbault, a french IT student and hobbyist 😄
 <!-- TODO : https://github.com/Cc618/Up-Lang -->
 <!-- TODO : Add link -->
 
-
+## Some stats
 <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source"><img width="100%" height="200" src="https://github-readme-stats.vercel.app/api?username=Cc618&show_icons=true&theme=buefy&count_private=true"></a>
 
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Cc618&exclude_repo=Deadly-Science&hide=C%23,ASP,HTML,GDScript&layout=compact&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
+<a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source"><img width="100%" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cc618&exclude_repo=Deadly-Science&hide=C%23,ASP,HTML,GDScript&layout=compact&langs_count=10"></a>
