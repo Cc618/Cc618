@@ -27,5 +27,10 @@ Available on the [Play Store](https://play.google.com/store/apps/details?id=com.
 ## Some stats
 <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source"><img width="100%" height="200" src="https://github-readme-stats.vercel.app/api?username=Cc618&show_icons=true&count_private=true&theme=buefy"></a>
 
+<a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source"><img width="100%" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cc618&exclude_repo=Deadly-Science&hide=C%23,ASP,HTML,GDScript&layout=compact&langs_count=9&theme=buefy"></a>
 
-<a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source"><img width="100%" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cc618&exclude_repo=Deadly-Science&hide=C%23,ASP,HTML,GDScript&layout=compact&langs_count=10&theme=buefy"></a>
+## Contact
+
+<a href=https://www.linkedin.com/in/c%C3%A9lian-raimbault-53269a1b2><img src="res/linkedin.png" width="24"></a>
+
+![Mail](res/mail.svg) celian.dev@gmail.com
