@@ -29,4 +29,4 @@ Available on the [Play Store](https://play.google.com/store/apps/details?id=com.
 
 <a href=https://www.linkedin.com/in/c%C3%A9lian-raimbault-53269a1b2><img src="res/linkedin.png" width="24"> LinkedIn</a>
 
-![Mail](res/mail.svg) celian.dev@gmail.com
+![Mail](res/mail.svg) celian.pro.78@gmail.com
