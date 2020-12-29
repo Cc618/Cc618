@@ -12,13 +12,13 @@ Currently studying at [EPITA](https://github.com/epita), I spend a lot of time c
 ### Operating Systems
 [![Os2020](res/os2020.gif "Os2020")](https://github.com/Cc618/Os2020)
 
+### Programming Languages
+[![Alpha](res/alpha.png "Alpha")](https://github.com/Cc618/Alpha)
+
 ### Mobile Apps
 Available on the [Play Store](https://play.google.com/store/apps/details?id=com.cc.quick_shop) !
 
 [![Quick-Shop](res/quick_shop.jpg "Quick-Shop")](https://github.com/Cc618/Quick-Shop)
-
-<!-- TODO : https://github.com/Cc618/Up-Lang -->
-<!-- TODO : Add link -->
 
 ## Some stats
 <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source"><img width="100%" height="200" src="https://github-readme-stats.vercel.app/api?username=Cc618&show_icons=true&count_private=true&theme=buefy"></a>
