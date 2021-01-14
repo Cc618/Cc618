@@ -22,6 +22,9 @@ Available on the [Play Store](https://play.google.com/store/apps/details?id=com.
 
 [![Quick-Shop](res/quick_shop.jpg "Quick-Shop")](https://github.com/Cc618/Quick-Shop)
 
+### Websites
+[![My Resume / Portfolio](res/resume.png "My Resume / Portfolio")](https://github.com/Cc618/Celian)
+
 ## Some stats
 <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source"><img width="100%" height="200" src="https://github-readme-stats.vercel.app/api?username=Cc618&show_icons=true&count_private=true&theme=buefy"></a>
 
