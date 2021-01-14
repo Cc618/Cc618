@@ -3,6 +3,8 @@ I'm Célian Raimbault, a french IT student and hobbyist.
 
 Currently studying at [EPITA](https://github.com/epita), I spend a lot of time coding some AIs, OSes and much more 😄
 
+Take a look at my [online resume / portfolio](https://cc618.github.io/Celian) !
+
 ## I like coding...
 ### Deep Learning algorithms
 [![PyTorch-Collections](res/pytorch_collections.gif "PyTorch-Collections")](https://github.com/Cc618/PyTorch-Collections)
