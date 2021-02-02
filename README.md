@@ -19,7 +19,7 @@ Take a look at my [online resume / portfolio](https://cc618.github.io/Celian) !
 
 ### Programming Languages
 <p align="center"><a href="https://github.com/Cc618/Alpha">
-    <img src="alpha.png" width="720" alt="Alpha" title="Alpha" /></a></p>
+    <img src="res/alpha.png" width="720" alt="Alpha" title="Alpha" /></a></p>
 
 ### Mobile Apps
 Available on the [Play Store](https://play.google.com/store/apps/details?id=com.cc.quick_shop) !
