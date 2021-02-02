@@ -7,28 +7,36 @@ Take a look at my [online resume / portfolio](https://cc618.github.io/Celian) !
 
 ## I like coding...
 ### Deep Learning algorithms
-[![PyTorch-Collections](res/pytorch_collections.gif "PyTorch-Collections")](https://github.com/Cc618/PyTorch-Collections)
+<p align="center"><a href="https://github.com/Cc618/PyTorch-Collections">
+    <img src="res/pytorch_collections.gif" width="720" alt="PyTorch-Collections" title="PyTorch-Collections" /></a></p>
 
-[![Feature-Changer](res/feature_changer.png "Feature-Changer")](https://github.com/Cc618/Feature-Changer)
+<p align="center"><a href="https://github.com/Cc618/Feature-Changer">
+    <img src="res/feature_changer.png" width="720" alt="Feature-Changer" title="Feature-Changer" /></a></p>
 
 ### Operating Systems
-[![Os2020](res/os2020.gif "Os2020")](https://github.com/Cc618/Os2020)
+<p align="center"><a href="https://github.com/Cc618/Os2020">
+    <img src="res/os2020.gif" width="720" alt="Os2020" title="Os2020" /></a></p>
 
 ### Programming Languages
-[![Alpha](res/alpha.png "Alpha")](https://github.com/Cc618/Alpha)
+<p align="center"><a href="https://github.com/Cc618/Alpha">
+    <img src="alpha.png" width="720" alt="Alpha" title="Alpha" /></a></p>
 
 ### Mobile Apps
 Available on the [Play Store](https://play.google.com/store/apps/details?id=com.cc.quick_shop) !
 
-[![Quick-Shop](res/quick_shop.jpg "Quick-Shop")](https://github.com/Cc618/Quick-Shop)
+<p align="center"><a href="https://github.com/Cc618/Quick-Shop">
+    <img src="res/quick_shop.jpg" width="720" alt="Quick-Shop" title="Quick-Shop" /></a></p>
 
 ### Websites
-[![My Resume / Portfolio](res/resume.png "My Resume / Portfolio")](https://github.com/Cc618/Celian)
+<p align="center"><a href="https://github.com/Cc618/Celian">
+    <img src="res/resume.png" width="720" alt="My Resume / Portfolio" title="My Resume / Portfolio" /></a></p>
 
 ## Some stats
-<a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source"><img width="100%" height="200" src="https://github-readme-stats.vercel.app/api?username=Cc618&show_icons=true&count_private=true&theme=buefy"></a>
+<a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
+    <img width="100%" height="200" src="https://github-readme-stats.vercel.app/api?username=Cc618&show_icons=true&count_private=true&theme=buefy"></a>
 
-<a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source"><img width="100%" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cc618&exclude_repo=Deadly-Science&hide=C%23,ASP,HTML,GDScript&layout=compact&langs_count=7&theme=buefy"></a>
+<a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
+    <img width="100%" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cc618&exclude_repo=Deadly-Science&hide=C%23,ASP,HTML,GDScript&layout=compact&langs_count=7&theme=buefy"></a>
 
 ## Contact
 
