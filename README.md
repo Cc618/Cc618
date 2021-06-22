@@ -32,6 +32,9 @@ Convolutional autoencoder able to change image attributes. It can modify hair co
 Interpreted language made in C++ designed for algorithms / data structures.
 It contains a garbage collector, a standard library, an auto documentation generator and more.
 
+<br />
+<br />
+
 <p align="center"><a href="https://github.com/Cc618/Alpha">
     <img src="res/alpha.png" width="720" alt="Alpha" title="Alpha" /></a></p>
 Compiled programming language made entirely in Julia. It contains also a Lexer and Parser generator like Flex and Bison and a Vim plugin.
