@@ -21,9 +21,20 @@ Convolutional autoencoder able to change image attributes. It can modify hair co
 32 bits Operating System. Written in C and assembly, it provides a custom bootloader, a libc and a Fat32 file system driver.
 
 ### Programming Languages
+<a href="https://github.com/Cc618/Riddim">
+<p align="center">
+<img src="res/riddim.svg" width="64" alt="Riddim" title="Riddim" />
+</p>
+<p align="center">
+<img src="res/riddim.png" width="720" alt="Riddim" title="Riddim" />
+</p>
+</a>
+Interpreted language made in C++ designed for algorithms / data structures.
+It contains a garbage collector, a standard library, an auto documentation generator and more.
+
 <p align="center"><a href="https://github.com/Cc618/Alpha">
     <img src="res/alpha.png" width="720" alt="Alpha" title="Alpha" /></a></p>
-Compiled programming language made entirely in Julia. Contains also a Lexer and Parser generator like Flex and Bison and a Vim plugin.
+Compiled programming language made entirely in Julia. It contains also a Lexer and Parser generator like Flex and Bison and a Vim plugin.
 
 ### Mobile Apps
 Available on the [Play Store](https://play.google.com/store/apps/details?id=com.cc.quick_shop) !
