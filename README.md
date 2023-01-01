@@ -49,9 +49,9 @@ Shopping list mobile application. Produced with the Flutter framework in Dart.
 
 ### Websites
 <p align="center"><a href="https://gitlab.com/celian-dev">
-    <img src="res/celiandev.png" width="720" alt="My Website" title="My Resume / Portfolio" /></a></p>
+    <img src="res/celiandev.png" width="720" alt="My Website" title="My Website" /></a></p>
 
-My set website of websites [celian.dev](https://celian.dev).
+My set of websites [celian.dev](https://celian.dev).
 
 ## Some stats
 <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
