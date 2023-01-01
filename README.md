@@ -1,9 +1,10 @@
 # Hi There !
-I'm Célian Raimbault, a french IT student and hobbyist.
+I'm Célian Raimbault, a French IT professional and hobbyist.
 
-Currently studying at [EPITA](https://github.com/epita), I spend a lot of time coding some AIs, OSes and much more 😄
+I spend a lot of time coding some AIs, OSes and much more 😄
+Competitive programming is also one of my hobbies, I organize and participate regularly to several coding competitions such as [CodeForces](https://codeforces.com/profile/Cc618).
 
-Take a look at my [online resume / portfolio](https://cc618.github.io/Celian) !
+Take a look at my [website](https://celian.dev) or my [portfolio](https://portfolio.celian.dev) !
 
 ## I like coding...
 ### Deep Learning algorithms
@@ -47,9 +48,10 @@ Available on the [Play Store](https://play.google.com/store/apps/details?id=com.
 Shopping list mobile application. Produced with the Flutter framework in Dart.
 
 ### Websites
-<p align="center"><a href="https://github.com/Cc618/Celian">
-    <img src="res/resume.png" width="720" alt="My Resume / Portfolio" title="My Resume / Portfolio" /></a></p>
-Online resume made in HTML / JS / SASS with React JS.
+<p align="center"><a href="https://gitlab.com/celian-dev">
+    <img src="res/celiandev.png" width="720" alt="My Website" title="My Resume / Portfolio" /></a></p>
+
+My set website of websites [celian.dev](https://celian.dev).
 
 ## Some stats
 <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
@@ -62,3 +64,7 @@ Online resume made in HTML / JS / SASS with React JS.
 <a href="https://www.linkedin.com/in/celian-raimbault"><img src="res/linkedin.png" width="24"> LinkedIn</a>
 
 ![Mail](res/mail.svg) [Professional](mailto:celian.pro.78@gmail.com "celian.pro.78@gmail.com") - [Development](mailto:celian.dev@gmail.com "celian.dev@gmail.com")
+
+[My CV](https://cv.celian.dev)
+
+> All other contacts can be found on my [contact page](https://contact.celian.dev)
