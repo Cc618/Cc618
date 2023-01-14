@@ -61,12 +61,12 @@ My set of websites [celian.dev](https://celian.dev).
     <img width="100%" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cc618&exclude_repo=Deadly-Science&hide=C%23,ASP,HTML,GDScript&layout=compact&langs_count=5&theme=buefy"></a>
 
 ## Contact
-<a href="https://www.linkedin.com/in/celian-raimbault"><img src="res/linkedin.png" width="24"> LinkedIn</a>
+<a href="https://www.linkedin.com/in/celian-raimbault"><img src="res/linkedin.png" alt="linkedin" width="24"> LinkedIn</a>
 
 ![Mail](res/mail.svg) [Professional](mailto:celian.pro.78@gmail.com "celian.pro.78@gmail.com") - [Development](mailto:celian.dev@gmail.com "celian.dev@gmail.com")
 
 [My CV](https://cv.celian.dev)
 
-![Gitlab](https://doc.celian.dev/thirdparty/gitlab.svg) [Gitlab](https://gitlab.com/Cc618)
+<a href="https://gitlab.com/Cc618"><img src="res/gitlab.svg" alt="gitlab" width="24"> Gitlab</a>
 
 > All other contacts can be found on my [contact page](https://contact.celian.dev)
