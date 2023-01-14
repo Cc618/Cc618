@@ -67,4 +67,6 @@ My set of websites [celian.dev](https://celian.dev).
 
 [My CV](https://cv.celian.dev)
 
+![Gitlab](https://doc.celian.dev/thirdparty/gitlab.svg) [Gitlab](https://gitlab.com/Cc618)
+
 > All other contacts can be found on my [contact page](https://contact.celian.dev)
