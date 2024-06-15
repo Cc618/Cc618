@@ -60,6 +60,10 @@ My set of websites [celian.dev](https://celian.dev).
 <!-- <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
     <img width="100%" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cc618&exclude_repo=Deadly-Science&hide=C%23,ASP,HTML,GDScript&layout=compact&langs_count=5&theme=buefy"></a> -->
 
+## Blog posts
+
+- [How did I used Invoke to manage my system(s) ?](https://gist.github.com/Cc618/82ed1cb67f6b26dafddf539775be8b06)
+
 ## Contact
 <a href="https://www.linkedin.com/in/celian-raimbault"><img src="res/linkedin.png" alt="linkedin" width="24"> LinkedIn</a>
 
